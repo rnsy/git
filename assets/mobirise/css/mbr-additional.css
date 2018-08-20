@@ -2085,6 +2085,10 @@ body {
 .cid-r1fFsp6UMq H2 {
   text-align: center;
 }
+.cid-r1fFsp6UMq .mbr-text,
+.cid-r1fFsp6UMq .mbr-section-btn {
+  text-align: center;
+}
 .cid-r0ZRfoNEZR .google-map {
   height: 25rem;
   position: relative;
@@ -2112,7 +2116,7 @@ body {
   display: none;
 }
 .cid-r1guA301TE {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #000000;
 }
